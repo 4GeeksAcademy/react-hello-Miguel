@@ -42,8 +42,18 @@ const Home = () => {
 				anchorText="Go somewhere"
 			/>
 		</div>
+		<div className="container-fluid ">
+			
+			<div className="row">
+
+				<Footer/>
+			</div>
+				
+
 		
-		<Footer/>
+	
+		</div>
+			
 		</>
 	);
 };
